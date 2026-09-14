@@ -1,4 +1,4 @@
-﻿# SecureNode — Dynamic Proxy VPN & Chrome Extension
+# SecureNode — Dynamic Proxy VPN & Chrome Extension
 
 [![Manifest V3](https://img.shields.io/badge/Chrome%20Extension-Manifest%20V3-blue.svg)](https://developer.chrome.com/docs/extensions/mv3/intro/)
 [![React](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-61dafb.svg)](https://react.dev/)
@@ -129,7 +129,7 @@ SecureNode sets Chrome's WebRTC handling policy to `disable_non_proxied_udp` whi
 
 **Shehraz Khalid**
 - GitHub: [@ShehrazKhalid](https://github.com/ShehrazKhalid)
-- Portfolio: [Shehraz Khalid Portfolio](https://shehrazkhalid.vercel.app/)
+- Portfolio: [Shehraz Khalid Portfolio](https://portfolio-dot-net-alpha.vercel.app/index.html)
 
 ---
 
