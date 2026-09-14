@@ -129,7 +129,7 @@ SecureNode sets Chrome's WebRTC handling policy to `disable_non_proxied_udp` whi
 
 **Shehraz Khalid**
 - GitHub: [@ShehrazKhalid](https://github.com/ShehrazKhalid)
-- Portfolio: [Shehraz Khalid Portfolio](https://portfolio-dot-net-alpha.vercel.app/index.html)
+- Portfolio: [Shehraz Khalid Portfolio](https://portfolio-dot-net-alpha.vercel.app/)
 
 ---
 
